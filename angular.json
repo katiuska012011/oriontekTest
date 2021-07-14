@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": "529c4ede-7941-4bb8-9c3a-753fa566006d"
+  },
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
@@ -103,4 +106,5 @@
     }
   },
   "defaultProject": "orionTek"
+  
 }
